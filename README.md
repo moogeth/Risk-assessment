@@ -1,11 +1,17 @@
 Exp_05: Risk-assessment
+
 Name: MOogethshivan G G 
+
 Reg No: 212225040259
+
 AUDITING CLOUD ACTIVITY USING AWS CLOUDTRAIL
-Objective
+
+Objective :
+
 To audit and monitor cloud activity in AWS using AWS CloudTrail by viewing and analyzing recorded AWS events and identifying important audit information such as user identity, event name, event time, AWS service, region, and operation status.
 
-Requirements
+Requirements:
+
 AWS Account
 
 Web Browser
